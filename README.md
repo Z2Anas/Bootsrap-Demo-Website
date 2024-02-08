@@ -14,13 +14,6 @@ To view the demo website, simply open the index.html file in a web browser. The 
 
 Feel free to explore the different sections of the website and interact with the components to get a sense of the frontend capabilities demonstrated in this project.
 
-Getting Started
-If you want to use this project as a starting point for your own Bootstrap-based website, follow these steps:
-
-Clone the repository: git clone https://github.com/yourusername/bootstrap-demo-website.git
-Open the index.html file in your code editor to make modifications.
-Customize the content, add your own sections, and adjust the styling to meet your requirements.
-Test your changes locally by opening the modified index.html file in a web browser.
 Technologies Used
 HTML
 CSS
